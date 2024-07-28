@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/minimax/static/css/main.49a67506.css",
+    "main.js": "/minimax/static/js/main.491b61c1.js",
+    "index.html": "/minimax/index.html",
+    "main.49a67506.css.map": "/minimax/static/css/main.49a67506.css.map",
+    "main.491b61c1.js.map": "/minimax/static/js/main.491b61c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49a67506.css",
+    "static/js/main.491b61c1.js"
+  ]
+}
